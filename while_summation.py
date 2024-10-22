@@ -1,5 +1,5 @@
 #while summation code following directions from Readme
-print("What is your number? ")
+#print("What is your number? ")
 toReach = int(input())
 
 sum = 0
