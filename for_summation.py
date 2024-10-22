@@ -1,5 +1,5 @@
 #for Summation code here
-print("What number would you like to reach? ")
+#print("What number would you like to reach? ")
 toReach = int(input())
 
 sum = 0
